@@ -1,12 +1,10 @@
 # import necessary modules
 import random
 import string
-import pyfiglet
 
 author = 'Jencent Dizon'
 link = 'https://github.com/I-am-Programmer-101'
 print('Author:', author, '\nLink:',link)
-print(pyfiglet.figlet_format(author))
 
 print("[*] Welcome to Password Generator")
 
